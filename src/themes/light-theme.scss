@@ -1,0 +1,50 @@
+
+body[data-theme="light"] {
+header{
+    background-color: #e9d5a1;
+    color: #212529;
+    h2{
+      color: #353239;
+    }
+  }
+
+  .pic{
+    background-color: white;
+    box-shadow: 0 8px 8px -4px;
+  }
+
+  .projects{
+    background-color: #e9d5a1;
+  }
+
+  .image{
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  .image:hover{
+    box-shadow: 0 12px 18px rgba(0, 0, 0, 0.6);
+  }
+
+  .p-links{
+    text-decoration: none;
+    color: #212529;
+  }
+
+  .year{
+    background-color: #696969;
+  }
+
+  .experience{
+    background-color: #efe1bd;
+  }
+  .main-badge{
+    background-color: #AE944F !important;
+    padding: 0.5em 1em;
+  }
+  .experience-badge{
+    background-color: #e9d5a1 !important;
+    color: #222 !important;
+  }
+
+}
+

@@ -1,0 +1,65 @@
+
+body[data-theme="dark"] {
+    header{
+        background-color: #494949;
+        color: white;
+        h2{
+          color: white;
+        }
+      } 
+      .typic{
+        color: white;
+      }
+      .second{
+        color: white;
+        background-color: #7f7f7f;
+      }
+      .card{
+        background-color: #6d6d6d;
+      }
+      .pic{
+        background-color: #6d6d6d;
+        box-shadow: 0 8px 8px rgba(0, 0, 0, 0.5);
+      }
+
+      .projects{
+        background-color: #494949;
+        color: white;
+      }
+
+      .image{
+        background-color: #6d6d6d;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+      }
+      .image:hover{
+        box-shadow: 0 12px 18px rgba(0, 0, 0, 0.6);
+      }
+      .p-links{
+        text-decoration: none;
+        color: white;
+      }
+
+      .year{
+        background-color: #918e97;
+      }
+
+      .experience{
+        filter: brightness(80%);
+        background-color: #494949;
+        color: white;
+      }
+    
+      .experience-badge {
+        background: #919191 !important;
+      }
+      
+      .main-badge {
+        background: #919191 !important;
+        padding: 0.5em 1em;
+      }
+      
+      .vertical-timeline-element-icon {
+        background: #919191 !important;
+      }
+
+}
