@@ -2,6 +2,12 @@
 @import '../src/themes/light-theme.scss';
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,400&family=Playfair+Display&display=swap');
+
+body{
+ // font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
+}
 
 header{
   padding-top: 6em;
@@ -10,6 +16,12 @@ header{
   text-align: center;
   min-height: 400px;
 }
+
+.name{
+  color: rgba(34, 34, 34,0.8);
+  font-weight: 600;
+   font-size: 2em;
+ }
 
 .elem{
   font-size: x-large;
@@ -237,6 +249,11 @@ footer{
 }*/
 
 @media only screen and (max-width: 750px) {
+  .name{
+    color: #2c2d2e;
+    font-weight: 600;
+    font-size: 1.5em;
+  }
   .font-rale{
     font-size: 0.8em;
   }

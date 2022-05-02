@@ -26,11 +26,9 @@ const Header = () => {
                 steps={[
                     'front-end developer',
                     3000,
+                    'WordPress developer',
+                    2000,
                     'data analyst',
-                    2000,
-                    'agric. economist',
-                    2000,
-                    'web3 developer',
                     2000]} />
         )
     })
@@ -39,7 +37,7 @@ const Header = () => {
         <header>
             <div className="elem">
                 <img src="laptop.png" alt="laptop" />
-                <h2>Ediong Alexander</h2>
+                <p className="name"><i>Ediong Alexander</i></p>
                 <p className="font-rale">
                     <Typo />
                 </p>

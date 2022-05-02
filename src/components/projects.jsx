@@ -23,11 +23,11 @@ const Projects = () => {
                 </div>
 
                 <div className="image">
-                    <img src="image (3).png" alt="Edconnect-weekly" />
+                    <img src="image (5).png" alt="Edconnect-weekly" />
                     <div className="year-container">
                         <p className="year">2021</p>
                     </div>
-                    <p><a href="https://ediong-project-explorer.herokuapp.com/"  className="p-links">PROJECT EXPLORER</a></p>
+                    <p><a href="https://colorflipersassignment.netlify.app/" className="p-links">COLOR FLIPPER</a></p>
                 </div>
 
             </div>
