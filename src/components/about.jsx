@@ -38,7 +38,7 @@ const About = () => {
                     </Card.Header>
                     <Card.Body>
                         <h3>Hi :)</h3>
-                        <p>I'm Ediong Alexander. I am a frontend developer. I currently work with react framework. I can say i'm very passionate about web development and i'm also a good team player</p>
+                        <p>I'm Ediong Alexander. I am a frontend developer. I currently work with ReactJS framework. I can say i'm very passionate about web development and i'm also a good team player</p>
                     </Card.Body>
                 </Card>
             </div>

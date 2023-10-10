@@ -27,8 +27,6 @@ const Header = () => {
                     'front-end developer',
                     3000,
                     'WordPress developer',
-                    2000,
-                    'data analyst',
                     2000]} />
         )
     })
