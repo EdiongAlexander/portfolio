@@ -9,7 +9,7 @@ const About = () => {
             </div>
             <div className="flex">
                 <div className="pic">
-                <img src="IMG-20210323-WA0002.jpg" alt="profile" />
+                <img src="profile-pic-2.jpg" alt="profile" />
                 <div className="p-icons">
                 <i class="devicon-react-original colored"></i>
                 <i class="devicon-mongodb-plain colored"></i>
