@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.scss';
 import Header from './components/header'
 import About from './components/about'
@@ -10,14 +9,14 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
-    <>
+    <div>
       <Header />
       <About />
       <Projects />
       <Skills />
       <Experience />
       <Footer />
-    </>
+    </div>
   );
 }
 

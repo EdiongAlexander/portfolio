@@ -24,11 +24,9 @@ const Header = () => {
             <Typical className='typic'
                 loop={50}
                 steps={[
-                    'front-end developer',
+                    'frontend developer',
                     3000,
                     'WordPress developer',
-                    2000,
-                    'data analyst',
                     2000]} />
         )
     })
