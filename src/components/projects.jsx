@@ -15,11 +15,11 @@ const Projects = () => {
                 </div>
 
                 <div className="image">
-                    <img src="image-3.png" alt="Edconnect-weekly" />
+                    <img src="weather-app.jpg" alt="Weather-App" />
                     {/* <div className="year-container">
                         <p className="year">React</p>
                     </div> */}
-                    <p><a href="https://ediong-project-explorer.herokuapp.com/" target="blank" className="p-links">PROJECT EXPLORER</a></p>
+                    <p><a href="https://weather-app-ediong-alexanders-projects.vercel.app/" target="blank" className="p-links">WEATHER APP</a></p>
                 </div>
 
                 <div className="image">
