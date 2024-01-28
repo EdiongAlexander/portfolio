@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.96d6b407.css",
-    "main.js": "/portfolio/static/js/main.1a9b5427.js",
+    "main.css": "/portfolio/static/css/main.d064faff.css",
+    "main.js": "/portfolio/static/js/main.0ea8980e.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/food-zero.png": "/portfolio/static/media/food-zero.352bb65c467479c310f5.png",
+    "static/media/image-2.png": "/portfolio/static/media/image-2.959832d5de7a12201c95.png",
+    "static/media/profile-pic-2.jpg": "/portfolio/static/media/profile-pic-2.9c58902a09e00bc906a9.jpg",
+    "static/media/image-3.png": "/portfolio/static/media/image-3.bbd32eb4afde637d27c5.png",
+    "static/media/weather-app.jpg": "/portfolio/static/media/weather-app.5f0ea986fe16bbcef6f0.jpg",
+    "static/media/laptop.png": "/portfolio/static/media/laptop.67535d946346a2106cbf.png",
+    "static/media/image-5.png": "/portfolio/static/media/image-5.4480dac5214b433c9744.png",
     "index.html": "/portfolio/index.html",
-    "main.96d6b407.css.map": "/portfolio/static/css/main.96d6b407.css.map",
-    "main.1a9b5427.js.map": "/portfolio/static/js/main.1a9b5427.js.map",
+    "static/media/uk-flag.svg": "/portfolio/static/media/uk-flag.3b67173694c3ad5a4cedf9e2514ef916.svg",
+    "static/media/ng-flag.svg": "/portfolio/static/media/ng-flag.bd92ded572d893dfddfd34b9965344d4.svg",
+    "main.d064faff.css.map": "/portfolio/static/css/main.d064faff.css.map",
+    "main.0ea8980e.js.map": "/portfolio/static/js/main.0ea8980e.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96d6b407.css",
-    "static/js/main.1a9b5427.js"
+    "static/css/main.d064faff.css",
+    "static/js/main.0ea8980e.js"
   ]
 }
