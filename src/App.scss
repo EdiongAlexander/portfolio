@@ -164,6 +164,7 @@ header{
   display: flex;
   // justify-content: space-between;
   flex-wrap: wrap;
+  // justify-content: center;
   gap: 1rem;
 }
 
@@ -267,9 +268,10 @@ footer{
   }
   .icons{
     flex-wrap: wrap;
+    justify-content: center;
   }
   .icon{
-    width: 30%;
+    width: 25%;
     font-size: 35px;
     flex-wrap: wrap;
     margin-bottom: 0.5em;

@@ -1,5 +1,6 @@
 import React from "react";
 import { Card } from 'react-bootstrap'
+import { ProfilePic } from "../images";
 
 const About = () => {
     return (
@@ -9,7 +10,7 @@ const About = () => {
             </div>
             <div className="flex">
                 <div className="pic">
-                <img src="profile-pic-2.jpg" alt="profile" />
+                <img src={ProfilePic} alt="profile" />
                 <div className="p-icons">
                 <i class="devicon-react-original colored"></i>
                 <i class="devicon-mongodb-plain colored"></i>

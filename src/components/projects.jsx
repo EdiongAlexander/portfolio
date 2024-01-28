@@ -1,4 +1,5 @@
 import React from "react";
+import { FoodZero, Fylo, WeatherApp } from "../images";
 
 
 const Projects = () => {
@@ -7,7 +8,7 @@ const Projects = () => {
             <h3>PROJECTS</h3>
             <div className="images">
                 <div className="image" >
-                    <img src="image-2.png" alt="fylo homepage" />
+                    <img src={Fylo} alt="fylo homepage" />
                     {/* <div className="year-container">
                         <p className="year">CSS</p>
                     </div> */}
@@ -15,7 +16,7 @@ const Projects = () => {
                 </div>
 
                 <div className="image">
-                    <img src="weather-app.jpg" alt="Weather-App" />
+                    <img src={WeatherApp} alt="Weather-App" />
                     {/* <div className="year-container">
                         <p className="year">React</p>
                     </div> */}
@@ -23,7 +24,7 @@ const Projects = () => {
                 </div>
 
                 <div className="image">
-                    <img src="food-zero.png" alt="food-zero" />
+                    <img src={FoodZero} alt="food-zero" />
                     {/* <div className="year-container">
                         <p className="year">React</p>
                     </div> */}

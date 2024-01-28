@@ -2,6 +2,7 @@ import React from "react";
 import Typical from "react-typical";
 import { useState } from "react";
 import Switch from 'react-switch'
+import { LaptopImage, NGFlag, UKFlag } from "../images";
 
 const Header = () => {
 
@@ -34,7 +35,7 @@ const Header = () => {
     return (
         <header>
             <div className="elem">
-                <img src="laptop.png" alt="laptop" />
+                <img src={LaptopImage} alt="laptop" />
                 <p className="name"><i>Ediong Alexander</i></p>
                 <p className="font-rale">
                     <Typo />
@@ -80,8 +81,8 @@ const Header = () => {
                     id='icon-switch' />
             </div>
             <div className="flags" style={{ display: 'none' }}>
-                <img src="ng-flag.svg" alt="ng-flag" />
-                <img src="uk-flag.svg" alt="uk-flag" />
+                <img src={NGFlag} alt="ng-flag" />
+                <img src={UKFlag} alt="uk-flag" />
             </div>
         </header>
     )
