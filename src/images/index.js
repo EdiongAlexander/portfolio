@@ -7,6 +7,7 @@ import NGFlag from "./ng-flag.svg";
 import ProfilePic from "./profile-pic-2.jpg";
 import UKFlag from "./uk-flag.svg";
 import WeatherApp from "./weather-app.jpg";
+import MyrtleLab from "./myrtle-home.png";
 
 
 
@@ -20,4 +21,5 @@ export {
     ProfilePic,
     UKFlag,
     WeatherApp,
+    MyrtleLab,
 }

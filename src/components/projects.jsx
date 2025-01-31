@@ -1,5 +1,5 @@
 import React from "react";
-import { FoodZero, Fylo, WeatherApp } from "../images";
+import { Fylo, MyrtleLab, WeatherApp } from "../images";
 
 
 const Projects = () => {
@@ -24,11 +24,11 @@ const Projects = () => {
                 </div>
 
                 <div className="image">
-                    <img src={FoodZero} alt="food-zero" />
+                    <img src={MyrtleLab} alt="myrtlelab" />
                     {/* <div className="year-container">
                         <p className="year">React</p>
                     </div> */}
-                    <p><a href="https://food-zero-restaurant.vercel.app/" target="blank" className="p-links">FOOD ZERO</a></p>
+                    <p><a href="https://myrtle-lab.vercel.app/" target="blank" className="p-links">MYRTLE LAB</a></p>
                 </div>
 
             </div>
